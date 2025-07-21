@@ -1,1 +1,3 @@
-#Landing Pages Sederhana
+# Landing Pages
+
+Silahkan klik link dibawah ini
